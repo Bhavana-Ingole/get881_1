@@ -16,5 +16,10 @@ public class Calc {
 		System.out.println("Difference is : "+(num1-num2));
 	}
 	
+	public void show()
+	{
+		System.out.println("show method");
+	}
+	
 	
 }
