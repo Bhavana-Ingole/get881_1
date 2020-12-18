@@ -7,5 +7,10 @@ public class Calc {
 		System.out.println("Summation is : "+(num1+num2));
 	}
 	
+	public void diff(int num1,int num2)
+	{
+		System.out.println("Difference is : "+(num1-num2));
+	}
+	
 	
 }
